@@ -44,9 +44,10 @@ The intended users are music lovers who want to shop online for records and audi
 - Insomnia (API testing)
 
 ## Demo
-![API Starting](apiGIF.gif)
-![Insomnia Tests](insomniaGIF.gif)
-![Web App](webapplicationGIF.gif)
+## Demo
+![API Starting](apiGIF-ezgif.com-resize.gif)
+![Insomnia Tests](insomniaGIF-ezgif.com-resize.gif)
+![Web App](webapplicationGIF-ezgif.com-resize.gif)
 
 ## Future Work
 - Finish Phase 4 & 5 
